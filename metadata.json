@@ -1,0 +1,6 @@
+{
+  "name": "سامانه جامع مساجد و حسینیه‌ها",
+  "description": "راهنمای مساجد و حسینیه‌ها، تقویم مناسبتی یکپارچه، جدول برنامه‌ها، فعالیت‌های فرهنگی و خیریه",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
